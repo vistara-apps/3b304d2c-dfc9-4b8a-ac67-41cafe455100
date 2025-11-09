@@ -7,10 +7,10 @@
   "frame": {
     "version": "next",
     "name": "SimuTrade Base",
-    "homeUrl": "https://simutrade.farcaster.xyz",
+    "homeUrl": "https://app-fe455100-lgmf.vercel.app",
     "iconUrl": "https://simutrade.farcaster.xyz/icon.png",
     "splashImageUrl": "https://simutrade.farcaster.xyz/splash.png",
     "splashBackgroundColor": "#1a1f2e",
-    "webhookUrl": "https://api.simutrade.farcaster.xyz/webhook"
+    "webhookUrl": "https://app-fe455100-lgmf.vercel.app/api/webhook"
   }
 }
